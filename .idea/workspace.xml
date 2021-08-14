@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69e7a86c-7f3e-4997-9bea-907da8d6f93f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django-becea5b1061e837edb4e3fc99f47a1f61f4dad63/.idea/django-becea5b1061e837edb4e3fc99f47a1f61f4dad63.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_exam5/.idea/django_exam5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../landing/.idea/landing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../landing/templates/.idea/landing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myenv/.idea/myenv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myenv/lesson3_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olegm/.idea/olegm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../td_list/.idea/td_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wikipedia/.idea/wikipedia.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wXOe1BQIwfpzP2I4nmJjRACjRg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69e7a86c-7f3e-4997-9bea-907da8d6f93f" name="Changes" comment="" />
+      <created>1628601558992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628601558992</updated>
+    </task>
+    <servers />
+  </component>
+</project>
